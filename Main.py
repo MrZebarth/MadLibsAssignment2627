@@ -21,12 +21,3 @@
 #############################################
 
 # THIS IS WHERE YOU CODE
-print("Welcome to my MadLib!")
-print("Give me a plural noun: ")
-pn1=input()
-print("Give me an adjective: ")
-adj1 =input()
-print("Give me a number: ")
-num1 = int(input())
-
-print("A recent survey informs us that one out of every",pn1,"owns a",adj1,"phone. This happend",num1*3,"times.")
